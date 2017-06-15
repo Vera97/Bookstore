@@ -13,7 +13,19 @@ A website model of online bookstore
 5. Login & Register
 
 ### Effect:
+![Image text](https://github.com/Vera97/Bookstore/blob/master/img-folder/p1.jpg)
 
+![Image text](https://github.com/Vera97/Bookstore/blob/master/img-folder/p2.jpg)
+
+![Image text](https://github.com/Vera97/Bookstore/blob/master/img-folder/p3.jpg)
+
+![Image text](https://github.com/Vera97/Bookstore/blob/master/img-folder/p4.jpg)
+
+![Image text](https://github.com/Vera97/Bookstore/blob/master/img-folder/p5.jpg)
+
+![Image text](https://github.com/Vera97/Bookstore/blob/master/img-folder/p6.jpg)
+
+![Image text](https://github.com/Vera97/Bookstore/blob/master/img-folder/p7.jpg)
 ### Using:
 
 1. Import the project into MyEclipse, ensure that your encoding is utf-8, otherwise some irritating errors may occurr (check in Window-Preference-General-Workspace)
